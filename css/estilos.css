@@ -1,0 +1,50 @@
+
+
+body{
+  /*
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  */
+  background: #87C4CA;
+}
+
+.personaje{
+	margin:10px 0px 10px 0px;
+	height: 170px;
+	width: 100%;
+}
+
+#contenido{
+	background-color: red;
+}
+
+.slider{
+	background: #EC90A1;
+}
+
+header {
+	background:#2c3e50;
+	color:#fff;
+}
+
+.main {
+	background:#85B4CA;
+	height: 300px;
+}
+
+.footer {
+	background:#16a085;
+}
+
+.imagenes{
+	background: #B49EDB;
+	padding: 5%;
+}
+
+.cuadro{
+	background: red;
+	padding: 5%;
+	border: solid black;
+	margin: 2%;
+}
